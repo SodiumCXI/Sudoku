@@ -1,0 +1,4 @@
+C:\Users\SodiumCXI\source\repos\Игра_Судоку\Игра_Судоку\x64\Debug\Игра_Судоку.vcxproj.AssemblyReference.cache
+C:\Users\SodiumCXI\source\repos\Игра_Судоку\Игра_Судоку\x64\Debug\Игра_Судоку.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\SodiumCXI\source\repos\Игра_Судоку\Игра_Судоку\x64\Debug\ИграСудоку.Судоку.resources
+C:\Users\SodiumCXI\source\repos\Игра_Судоку\Игра_Судоку\x64\Debug\Игра_Судоку.vcxproj.GenerateResource.cache
