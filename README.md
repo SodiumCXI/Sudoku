@@ -1,4 +1,4 @@
-# The Sudoku Game app
+# The Sudoku game app
 ## Description
 Sudoku is a puzzle game that consists of a 9x9 grid divided into 9 smaller squares of 3x3 cells. The goal is to fill all the empty cells with numbers from 1 to 9, making sure that each row, column, and smaller square contains all the numbers without repetition.
 
